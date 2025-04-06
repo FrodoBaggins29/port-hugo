@@ -1,18 +1,15 @@
 ########################## hero area ##########################
 hero:
-  title: "I'm Phuong Truc Nguyen"
+  title: "I'm Rene Nel"
 
   # animated text loop
   occupations:
-    - 'My'
-    - 'Name'
-    - 'is'
-    - 'Kha Minh!'
+    - 'I'
+    - 'Create'
+    - 'Websites'
     - 'And.....'
-    - 'Hais'
-    - 'Name'
-    - 'is....'
-    - 'Kha Di!!!!' 
+    - 'deploy them'
+  
 
   # hero background image
   bg_image: 'images/background.jpg'
